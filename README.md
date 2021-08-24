@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="Nadeem.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="sinumol" src="https://img.shields.io/badge/Sinumol-sf4?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="meenumol" src="https://img.shields.io/badge/Sinumol-sf4?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/SF4RNADEEMBOT"><img title="FD:NN4" src="https://img.shields.io/badge/FD:NN4-SF4NADEEMBOT/Sinumol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Nadeemroshan"><img title="FD:SF4" src="https://img.shields.io/badge/FD:NN4-SF4NADEEMBOT/Sinumol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
