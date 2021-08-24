@@ -1,15 +1,14 @@
 
 <div align="center">
-  <img border-radius: 15px src="Nadeem.jpeg" width="200" height="200"/>
-  <p align="center">
-<a href="#"><img title="meenumol" src="https://img.shields.io/badge/Meenumol-nn4?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  
+<a href="#"><img title="DEVIL" src="https://i.imgur.com/GcIHyyD.jpegBLACK-DEVIL-white?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Nadeemroshan"><img title="FD:SF4" src="https://img.shields.io/badge/FD:SF4-Nadeemroshan/Meenumol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/aneeslub/Black-Devil"><img title="Author" src="https://img.shields.io/badge/Author-Anees-Lub/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Nadeemroshan">Nadeem</a> to make it public
+Project created by <a href="https://github.com/aneeslub/Black-Devil">anees-lub</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,24 +18,34 @@ Project created by <a href="https://github.com/Nadeemroshan">Nadeem</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/Nadeemroshan/Meenumol">
-    <img src="https://img.shields.io/github/repo-size/Nadeemroshan/MeenuMol?color=green&label=Repo%20total%20size&style=italic">
+  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
+    <img src="https://img.shields.io/github/repo-size/ameerkallumthodi/pikachu?color=%f7df1e&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
-<a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/lastpink?label=Watchers&color=red&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
+</p>
 
 
+
+
+## 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IjBIx7uNkiqIQYtcJUnEVg)
+       
+    
 ## Setup
 <div align="center">
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@farooq67893/Sinumol-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nadeemroshan/Meenumol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aneeslub/Pikachu.git)
      </div>
 <br>
 <br >
@@ -44,17 +53,32 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 ```
 bash <(curl -L https://t.ly/tHxh)
 ``` 
+  
+### The Hard Method
+```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/aneeslub/Black-Devil
+$ cd pikachu
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/aneeslub/Black-Devil
+$ cd pikachu
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
+```
 
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
-
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
-
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
 
 ### ⚠️ Warning! 
 ```
@@ -63,15 +87,16 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
-  
+
 ## Developers
   <div align="center">
     
-  [![Farooq](https://github.com/SF4NADEEMBOT.png?size=100)](https://github.com/SF4NADEEMBOT) |  [![Alien-Alfa](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![Nadeem](https://github.com/Nadeemroshan.png?size=100)](https://github.com/Nadeemroshan)
+  [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/Anees-lub/pikachu) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Farooq](https://github.com/SF4NADEEMBOT)  | [Alien-Alfa](https://github.com/Alien-Alfa) | [Nadeem](https://github.com/Nadeemroshan)
+[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
+    
 
 
 ## License
