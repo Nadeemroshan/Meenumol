@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/SF4NADEEMBOT">Farooq</a> to make it public
+Project created by <a href="https://github.com/Nadeemroshan">Nadeem</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,8 +19,8 @@ Project created by <a href="https://github.com/SF4NADEEMBOT">Farooq</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/SF4NADEEMBOT/Sinumol">
-    <img src="https://img.shields.io/github/repo-size/SF4NADEEMBOT/SinuMol?color=green&label=Repo%20total%20size&style=italic">
+  <a href="https://github.com/Nadeemroshan/Meenumol">
+    <img src="https://img.shields.io/github/repo-size/Nadeemroshan/MeenuMol?color=green&label=Repo%20total%20size&style=italic">
 <p align="center">
 <a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
 <a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/SF4NADEEMBOT">Farooq</a> to make 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@farooq67893/Sinumol-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SF4NADEEMBOT/Sinumol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nadeemroshan/Meenumol)
      </div>
 <br>
 <br >
@@ -67,9 +67,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farooq](https://github.com/SF4NADEEMBOT.png?size=100)](https://github.com/SF4NADEEMBOT) |  [![Alien-Alfa](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk)
+  [![Farooq](https://github.com/SF4NADEEMBOT.png?size=100)](https://github.com/SF4NADEEMBOT) |  [![Alien-Alfa](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![Nadeem](https://github.com/Nadeemroshan.png?size=100)](https://github.com/Nadeemroshan)
 ----|----|----
-[Farooq](https://github.com/SF4NADEEMBOT)  | [Alien-Alfa](https://github.com/Alien-Alfa) | [afnanplk](https://github.com/afnanplk)
+[Farooq](https://github.com/SF4NADEEMBOT)  | [Alien-Alfa](https://github.com/Alien-Alfa) | [Nadeem](https://github.com/Nadeemroshan)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
